@@ -24,3 +24,9 @@
     margin: 0 1rem;
   }
 }
+
+.separador {
+  height: 2px;
+  background: linear-gradient(to right, #333, #ccc, #333);
+  margin: 20px 0;
+}
